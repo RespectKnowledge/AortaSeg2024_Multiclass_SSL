@@ -37,6 +37,15 @@ CUDA_VISIBLE_DEVICES=0 python3 /home/aqayyum/xLSTM-UNet-PyTorch/UxLSTM/nnunetv2/
 
 ##  Prediction
 
+> pip install -r requirements.txt
+
+### donwload the trained weight and put in fold_all folder
+https://mega.nz/file/0Kt1mKpD#CIVsKsiC-CwxA_1Etz7MRAy_evMae0DVVUwUCz7pSdI
+
+####### please change all dataset, input and output folder##############
+
+> python3 inference.py
+
 
 ### Acknowledgement
 https://github.com/tianrun-chen/xLSTM-UNet-PyTorch
