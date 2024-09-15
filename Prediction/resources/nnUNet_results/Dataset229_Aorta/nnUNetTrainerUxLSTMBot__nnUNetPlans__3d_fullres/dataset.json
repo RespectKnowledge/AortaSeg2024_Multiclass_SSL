@@ -1,0 +1,33 @@
+{
+    "channel_names": {
+        "0": "CTA"
+    },
+    "labels": {
+        "background": 0,
+        "zone0": 1,
+        "inominate1": 2,
+        "zone1": 3,
+        "LCC": 4,
+        "zone2": 5,
+        "LSA": 6,
+        "zone3": 7,
+        "zone4": 8,
+        "zone5": 9,
+        "zone6": 10,
+        "CA": 11,
+        "zone7": 12,
+        "SMA": 13,
+        "zone8": 14,
+        "RRA": 15,
+        "LRA": 16,
+        "zone9": 17,
+        "zone10R": 18,
+        "zone10L": 19,
+        "RIIA": 20,
+        "LIIA": 21,
+        "zone11R": 22,
+        "zone11L": 23
+    },
+    "numTraining": 50,
+    "file_ending": ".nii.gz"
+}
