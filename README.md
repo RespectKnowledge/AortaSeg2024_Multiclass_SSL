@@ -30,6 +30,7 @@ Add plans file inside dataset and set the path on your system and run
 
 Go inside Training/Downstream_seg
 Place the following file run_finetuning_xLSTM_bottom_model.py inside run folder /home/aqayyum/xLSTM-UNet-PyTorch/UxLSTM/nnunetv2/run/
+
 download SSL trained weights and put inside data folder and then run
 https://mega.nz/file/AGVSHToZ#nEeMJ1zU8qY_JuhTdKwXSDyWjM-BFC-w0NewHQjz_4M
 
@@ -46,6 +47,7 @@ https://mega.nz/file/0Kt1mKpD#CIVsKsiC-CwxA_1Etz7MRAy_evMae0DVVUwUCz7pSdI
 
 > python3 inference.py
 
+contact me: engr.qayyum@gmail.com
 
 ### Acknowledgement
 https://github.com/tianrun-chen/xLSTM-UNet-PyTorch
