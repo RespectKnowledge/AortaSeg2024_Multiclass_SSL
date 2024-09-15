@@ -14,7 +14,7 @@ cd xLSTM-UNet-PyTorch/UxLSTM and run pip install -e .
 
 > python3 conversion_nnunetv2_aorta_update
 
-## Dataset prerocessing
+## Dataset preprocessing
 
 > nnUNetv2_plan_and_preprocess -d DataID --verify_dataset_integrity
 
