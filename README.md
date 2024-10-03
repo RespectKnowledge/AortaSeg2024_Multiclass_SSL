@@ -40,8 +40,11 @@ CUDA_VISIBLE_DEVICES=0 python3 /home/aqayyum/xLSTM-UNet-PyTorch/UxLSTM/nnunetv2/
 
 > pip install -r requirements.txt
 
-### donwload the trained weight and put in fold_all folder
+### donwload the trained weight and put in fold_all folder for validation
 https://mega.nz/file/0Kt1mKpD#CIVsKsiC-CwxA_1Etz7MRAy_evMae0DVVUwUCz7pSdI
+
+### donwload the trained weight and put in fold_all folder for testing
+https://mega.nz/file/ozMxELII#lxTDTA4MSKPzQ_ld_yGhQV1V_yliac9mZziEAoa7op0
 
 ####### please change all dataset, input and output folder##############
 
